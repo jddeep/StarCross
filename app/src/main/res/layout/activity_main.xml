@@ -10,6 +10,8 @@
     tools:openDrawer="start"
     tools:context=".MainActivity">
 
+    <include layout="@layout/app_bar_main" />
+
     <android.support.design.widget.NavigationView
         android:id="@+id/design_navigation_view"
         android:layout_width="wrap_content"
@@ -17,8 +19,6 @@
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/nav_header_main"
         android:layout_gravity="start"
-        app:menu="@menu/main_drawer">
-
-    </android.support.design.widget.NavigationView>
+        app:menu="@menu/main_drawer" />
 
 </android.support.v4.widget.DrawerLayout>
