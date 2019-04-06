@@ -4,20 +4,20 @@
     tools:showIn="navigation_view">
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nav_camera"
+            android:id="@+id/nav_grid_on"
             android:icon="@drawable/grid_on"
             android:title="Grid" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/nav_horizon_on"
             android:icon="@drawable/horizon_on"
             android:title="Horizon" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/b_planets_off"
+            android:id="@+id/nav_planets_on"
+            android:icon="@drawable/b_planets_on"
             android:title="Planets" />
         <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/b_star_off"
+            android:id="@+id/nav_star_on"
+            android:icon="@drawable/ic_star"
             android:title="Stars" />
     </group>
 </menu>
