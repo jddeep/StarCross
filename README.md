@@ -1,4 +1,4 @@
-# Stardroid_Updated
+# StarCross
 Updated version of the actual version of the stardroid app.
 
 ![starcross_readmeimg2](https://user-images.githubusercontent.com/43133646/55669489-ad289480-5895-11e9-85e4-c41bea995442.jpeg)
